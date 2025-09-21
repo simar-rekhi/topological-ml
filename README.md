@@ -31,6 +31,3 @@ This is an active research project with ongoing development of pipelines, data i
 
 For more details about the research group and projects, please visit:  
 [Topological ML Group Website](https://sites.google.com/view/topo-ml)
-
-Example scripts and pipelines for persistent homology computation, Betti vectorization, and training XGBoost/MLP models on graph filtrations are included in the `/scripts` and `/pipelines` directories.
-
